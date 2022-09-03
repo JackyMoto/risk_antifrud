@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T03:49:20.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="l_FQc0wBwas3CVcA069b" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T03:49:34.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="3SmgAK1p6JGbt49nkc1H" version="20.2.8" type="github">
   <diagram id="EX7gkqpgY4ono2qne7ta" name="第 1 页">
     <mxGraphModel dx="1209" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="XOuI5h1wmfDcTH0eS6Nm-87" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XOuI5h1wmfDcTH0eS6Nm-126" value="欺诈交易金额" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XOuI5h1wmfDcTH0eS6Nm-126" value="欺诈交易金额" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="-30" width="480" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XOuI5h1wmfDcTH0eS6Nm-127" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XOuI5h1wmfDcTH0eS6Nm-126">
