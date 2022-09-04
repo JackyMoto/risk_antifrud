@@ -8,3 +8,6 @@ https://tech.meituan.com/2017/01/13/risk-control-system-experience-sharing.html
 
 ## 张陈丞：第四范式智能风控中台架构设计及应用
 https://www.51cto.com/article/707694.html
+
+## 互联网风控实践
+https://github.com/zhengpeitao/risk-hub
