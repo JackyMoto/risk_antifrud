@@ -15,8 +15,8 @@ https://github.com/zhengpeitao/risk-hub
 ## 携程金融自动化迭代反欺诈模型体系
 https://www.infoq.cn/article/cuip4c0rwnshp6g0pokh
 
-##兴业银行风控决策一体化平台实践
+## 兴业银行风控决策一体化平台实践
 https://www.secrss.com/articles/16726
 
-##建议收藏：汽车金融产品方风控流程设计
+## 建议收藏：汽车金融产品方风控流程设计
 https://new.qq.com/rain/a/20200331A0BE8B00
