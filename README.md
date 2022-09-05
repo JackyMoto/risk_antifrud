@@ -11,3 +11,6 @@ https://www.51cto.com/article/707694.html
 
 ## 互联网风控实践
 https://github.com/zhengpeitao/risk-hub
+
+## 携程金融自动化迭代反欺诈模型体系
+https://www.infoq.cn/article/cuip4c0rwnshp6g0pokh
